@@ -1,4 +1,4 @@
-﻿﻿Console.WriteLine("Введите три числа, и узнайте, ");
+﻿Console.WriteLine("Введите три числа, и узнайте, ");
 Console.WriteLine("какое из них имеет максимальное значение.");
 Console.Write("Введите первое число и нажмите ENTER: ");
 int num1 = int.Parse(Console.ReadLine());
